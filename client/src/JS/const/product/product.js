@@ -1,0 +1,14 @@
+export const GET_PRODUCTS_LOAD = "GET_PRODUCTS_LOAD";
+export const GET_PRODUCTS_SUCCESS = "GET_PRODUCTS_SUCCESS";
+export const GET_PRODUCTS_FAIL = "GET_PRODUCTS_FAIL";
+
+export const DELETE_PRODUCT = "DELETE_PRODUCT";
+
+
+
+export const GET_PRODUCT = "GET_PRODUCT";
+
+
+
+export const POST_PRODUCT = "POST_PRODUCT";
+export const EDIT_PRODUCT = "EDIT_PRODUCT";

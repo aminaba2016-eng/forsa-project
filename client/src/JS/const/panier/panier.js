@@ -1,0 +1,14 @@
+export const GET_PANIERS_LOAD = "GET_PANIERS_LOAD";
+export const GET_PANIERS_SUCCESS = "GET_PANIERS_SUCCESS";
+export const GET_PANIERS_FAIL = "GET_PANIERS_FAIL";
+
+export const DELETE_PANIER = "DELETE_PANIER";
+
+
+
+export const GET_PANIER = "GET_PANIER";
+
+
+
+export const POST_PANIER = "POST_PANIER";
+export const EDIT_PANIER = "EDIT_PANIER";
